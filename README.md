@@ -7,7 +7,7 @@
 
 ## DATASETS
 1. [CIFAR-10](http://www.cs.toronto.edu/~kriz/cifar-10-python.tar.gz)
-2. [Flickr25k](https://pan.baidu.com/s/1Bcr5K33l7QFwIRygNxwJ4w) password: ve86
+2. [Flickr25k](https://pan.baidu.com/s/1Bcr5K33l7QFwIRygNxwJ4w) Password: ve86
 3. [NUS-WIDE](https://pan.baidu.com/s/1f9mKXE2T8XpIq8p7y8Fa6Q) Password: uhr3
 
 ## USAGE
