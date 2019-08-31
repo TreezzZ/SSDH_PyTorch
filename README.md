@@ -60,5 +60,5 @@ flickr25k: 2000 query images, 10000 training images.
  | | 16 bits | 32 bits | 64 bits | 128 bits 
    :-:   |  :-:    |   :-:   |   :-:   |   :-:     
 cifar-10 MAP@5000 | 0.2511 | 0.2414 | 0.2695 | 0.2871
-nus-wide MAP@5000 | | | | 
-flickr25k MAP@5000 | | | |
+nus-wide MAP@5000 |  |  |  | 
+flickr25k MAP@5000 | 0.7737 | 0.7461 | 0.7583 | 0.7415
